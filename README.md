@@ -1,4 +1,4 @@
-<h1>Esquema Conceitual Oficina Mecânica</h1>
+<h1>Esquema Conceitual de uma Oficina Mecânica</h1>
 Criar o esquema conceitual para o contexto de oficina mecânica baseado na seguinte narrativa:
 
 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
